@@ -536,12 +536,12 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>83091B89-765E-4F0D-9275-0EC6CB084126</string>
+	<string>9A0D0E31-1AF3-EC8F-F4BC-F064CD013269</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.dracula</string>
+	<string>theme.dark.braculuh</string>
 	<key>author</key>
-	<string>Zeno Rocha</string>
+	<string>allyouaskfor</string>
 </dict>
 </plist>
